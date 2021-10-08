@@ -1,10 +1,10 @@
--  👋 Hi, I’m Akash - Completely lost in the world of interview Prep .
--  👀 I’m interested in distributed systems, startups, product, MVP, software architecture.
--  🌱 I’m currrently on journey to reach O(N) ( Started with O(N^2) and still in O(N^2) :joy: :smirk:).
--  :ghost: by 99% Companies :tired_face:
--  Keep building and hustle !!! ( Enough of rambling, get back to work )
--  💞️ I’m looking to collaborate on anything. 
--  📫 Best way to reach out is through linked-in,email.
+-  👋 Hi, I’m Akash - 🏃‍♂️ Completely lost in the world of interview Prep 🏃
+-  👀 Interested in distributed systems, startups, product, MVP, software architecture? Let's get connected and discuss
+-  🌱 I’m currrently on journey to reach O(N) ( Started with O(N^2) and still in O(N^2) 😂 😏)
+-  👻 by 99% companies 😫 🤞
+- 💪 Keep building and hustle !!! ( Enough of rambling, get back to work )
+-  💞️ I’m looking to collaborate on anything
+-  📫 Best way to reach out is through Linked-in, Email
 
 [![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=rbakash)](https://github.com/rbakash?tab=repositories)
 
