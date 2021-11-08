@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Akash - 🏃‍♂️ Completely lost in the world of interview Prep 🏃
+- 👋 Hi, I’m Akash, CS graduate student @ UTD, passionate about distributed systems, startups, products, MVP, software architecture.
+-  🏃‍♂️ Completely lost in the world of interview Prep 🏃
 - :rat: Not in the rat race :wink:
-- 👀 Interested in distributed systems, startups, products, MVP, software architecture? Let's get connected and discuss
+- 👀 Interested in any of these: distributed systems, startups, products, MVP, software architecture? Let's get connected and discuss
 - 🌱 I’m currently on a journey to reach O(log N) (Started with O(N^2) and still in O(N^2) 😂 😏)
 - 👻 by 99% companies 😫 🤞
 - 💪 Keep building and hustle!!! (Enough of rambling, get back to work)
