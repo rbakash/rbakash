@@ -1,5 +1,4 @@
-[![Linkedin Badge](https://img.shields.io/badge/-Akash%20Ramasamudra%20Basavaraj%20-blue?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-rb/ "Connect on Linkedin")  
-[![Mail Badge](https://img.shields.io/badge/-Akash%20Ramasamudra%20Basavaraj%20-red?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:rbakashcs@gmail.com " Gmail")
+<space><space> [![Linkedin Badge](https://img.shields.io/badge/-Akash%20Ramasamudra%20Basavaraj%20-blue?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-rb/ "Connect on Linkedin") <space><space> [![Mail Badge](https://img.shields.io/badge/-Akash%20Ramasamudra%20Basavaraj%20-red?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:rbakashcs@gmail.com " Gmail")
 
 - 👋 Hi, I’m Akash, :man_student: CS graduate student @ UTD, passionate about distributed systems, startups, products, MVP, software architecture.
 - 🏃‍♂️ Currently lost in the world of interview Prep 🏃.
