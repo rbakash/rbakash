@@ -1,6 +1,6 @@
 <space><space> [![Linkedin Badge](https://img.shields.io/badge/-Akash%20Ramasamudra%20Basavaraj%20-blue?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-rb/ "Connect on Linkedin") <space><space> [![Mail Badge](https://img.shields.io/badge/-Akash%20Ramasamudra%20Basavaraj%20-red?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:rbakashcs@gmail.com " Gmail")
 
-- 👋 Hi, I’m Akash, :man_student: CS graduate student @ UTD, passionate about distributed systems, startups, products, MVP, software architecture
+- 👋 Hi, I’m Akash, :man_student: CS graduate student @ UTD, passionate about distributed systems, products, software architecture
 - 🏃‍♂️ Currently lost in the world of interview Prep 🏃
 - 👀 Interested in any of these: distributed systems, startups, products, MVP, software architecture? Let's get connected and discuss
 - 🌱 I’m currently on a journey to reach O(log N) (Started with O(N^2) and still in O(N^2) 😂 😏)
