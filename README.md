@@ -1,6 +1,5 @@
 <space><space> [![Linkedin Badge](https://img.shields.io/badge/-Akash%20Ramasamudra%20Basavaraj%20-blue?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-rb/ "Connect on Linkedin") <space><space> [![Mail Badge](https://img.shields.io/badge/-Akash%20Ramasamudra%20Basavaraj%20-red?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:rbakashcs@gmail.com " Gmail")
 
----
 # Akash Ramasamudra Basavaraj
 
 ![Profile Banner](https://example.com/path-to-your-banner-image.jpg)
@@ -10,29 +9,19 @@
 - 🌐 Distributed system Enthusiast
 - 🚀 Always eager to experiment new technologies
 
----
 
 ## Skills
 
 **Technologies:**  
-Java, JavaScript, Golang, C#, C++, Python, TypeScript, HTML5, CSS3, REST API, SOAP web services, XML, JSON, EJB, Docker, RabbitMQ, Maven
-
-**Methodologies:**  
-SOA, Microservices, TDD, Agile
-
-**Frameworks/Libraries:**  
-Spring Boot, Hibernate, JUnit, Mockito, Node.js, Express.js, React, Redux, GraphQL, FastAPI, Bootstrap
+Java, JavaScript, Golang, C#, C++, Python
 
 **Databases:**  
 MySQL, SQL Server, Redis, NoSQL, Oracle DB, Cassandra, MongoDB
 
-**Tools:**  
-Git, GitHub, Docker, AWS, Jenkins, Jira, Confluence, VSCode, IntelliJ IDE, Gradle, Kubernetes, Selenium
 
 **Cloud/Server:**  
 AWS EC2, GCP, Azure, Amazon S3, ElasticSearch, Nginx, WebLogic, Tomcat
 
----
 
 ## Professional Experience
 
@@ -74,15 +63,11 @@ AWS EC2, GCP, Azure, Amazon S3, ElasticSearch, Nginx, WebLogic, Tomcat
 - Developed a DaaS tool in the MERN stack for HPE CPQ, increasing stakeholders’ productivity by more than 70%.
 - Owned and accomplished horizontal scaling of the new parallel environment to Production in Linux server clusters.
 
----
 
 ## Education
 
 **Master of Science in Computer Science**  
 *The University of Texas at Dallas*  
-
----
-
 
 ## Contact / Connect Me
 
