@@ -6,9 +6,7 @@
 ![Profile Banner](https://example.com/path-to-your-banner-image.jpg)
 
 ## About Me
-I am a passionate software engineer with expertise in building web applications and software solutions. My journey in software development began with a strong curiosity for technology, and over the years, I have honed my skills through hands-on experience, education, and continuous learning.
-
-- 💻 Developer
+- 💻 Developer who loves to build products
 - 🌐 Distributed system Enthusiast
 - 🚀 Always eager to experiment new technologies
 
@@ -39,7 +37,7 @@ AWS EC2, GCP, Azure, Amazon S3, ElasticSearch, Nginx, WebLogic, Tomcat
 ## Professional Experience
 
 ### Tesla Inc
-**Software Development Engineer**  
+**Product Engineer**  
 *Fremont, California*  
 *May 2022 – May 2024*
 
@@ -82,34 +80,13 @@ AWS EC2, GCP, Azure, Amazon S3, ElasticSearch, Nginx, WebLogic, Tomcat
 
 **Master of Science in Computer Science**  
 *The University of Texas at Dallas*  
-*Graduated: December 2022*
-
-**Bachelor of Technology in Computer Science**  
-*India*
 
 ---
 
-## Certifications
-
-- **Oracle Certified Java Programmer** (since 2014)
-- **Microsoft Certified Technical Associate - Databases** (since 2014)
-
----
 
 ## Contact / Connect Me
 
-Feel free to reach out to me via email for collaboration, hire me, or just to say hello! I take pleasure in discussing business ideas around technology and believe in going with the flow.
-
-📧 rbakashcs@gmail.com  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/akash-rb) [![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/rbakash)
-
-I live in the Bay Area and would be happy to connect with like-minded folks.
-
-
----
-
-Feel free to reach out for any collaboration or opportunities!
-
+Feel free to reach out to me via email for collaboration, hire me, or just to say hello! 
 
 [![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=rbakash)](https://github.com/rbakash?tab=repositories)
 
