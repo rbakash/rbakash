@@ -1,16 +1,12 @@
 <space><space> [![Linkedin Badge](https://img.shields.io/badge/-Akash%20Ramasamudra%20Basavaraj%20-blue?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-rb/ "Connect on Linkedin") <space><space> [![Mail Badge](https://img.shields.io/badge/-Akash%20Ramasamudra%20Basavaraj%20-red?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:rbakashcs@gmail.com " Gmail")
-
-# Akash Ramasamudra Basavaraj
-
-![Profile Banner](https://example.com/path-to-your-banner-image.jpg)
-
-## About Me
+ ### Feel free to reach out to me via email for collaboration, hire me, or just to say hello! 
+# About Me
 - 💻 Developer who loves to build products
 - 🌐 Distributed system Enthusiast
 - 🚀 Always eager to experiment new technologies
 
 
-## Skills
+# Skills
 
 **Technologies:**  
 Java, JavaScript, Golang, C#, C++, Python
@@ -23,7 +19,7 @@ MySQL, SQL Server, Redis, NoSQL, Oracle DB, Cassandra, MongoDB
 AWS EC2, GCP, Azure, Amazon S3, ElasticSearch, Nginx, WebLogic, Tomcat
 
 
-## Professional Experience
+# Professional Experience
 
 ### Tesla Inc
 **Product Engineer**  
@@ -64,14 +60,11 @@ AWS EC2, GCP, Azure, Amazon S3, ElasticSearch, Nginx, WebLogic, Tomcat
 - Owned and accomplished horizontal scaling of the new parallel environment to Production in Linux server clusters.
 
 
-## Education
+# Education
 
 **Master of Science in Computer Science**  
 *The University of Texas at Dallas*  
 
-## Contact / Connect Me
-
-Feel free to reach out to me via email for collaboration, hire me, or just to say hello! 
 
 [![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=rbakash)](https://github.com/rbakash?tab=repositories)
 
