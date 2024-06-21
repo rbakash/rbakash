@@ -1,38 +1,49 @@
 <space><space> [![Linkedin Badge](https://img.shields.io/badge/-Akash%20Ramasamudra%20Basavaraj%20-blue?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-rb/ "Connect on Linkedin") <space><space> [![Mail Badge](https://img.shields.io/badge/-Akash%20Ramasamudra%20Basavaraj%20-red?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:rbakashcs@gmail.com " Gmail")
 
 ---
+# Akash Ramasamudra Basavaraj
 
-## Education
+![Profile Banner](https://example.com/path-to-your-banner-image.jpg)
 
-**Master of Science in Computer Science**  
-*The University of Texas at Dallas*  
+## About Me
+I am a passionate software engineer with expertise in building web applications and software solutions. My journey in software development began with a strong curiosity for technology, and over the years, I have honed my skills through hands-on experience, education, and continuous learning.
+
+- 💻 Developer
+- 🌐 Distributed system Enthusiast
+- 🚀 Always eager to experiment new technologies
 
 ---
 
-## Technical Skills
+## Skills
 
-**Languages:**  
-Java, JavaScript, Golang, C#, C++, Python, TypeScript, HTML5, CSS3
+**Technologies:**  
+Java, JavaScript, Golang, C#, C++, Python, TypeScript, HTML5, CSS3, REST API, SOAP web services, XML, JSON, EJB, Docker, RabbitMQ, Maven
 
-**Web Technologies:**  
-Express.js, Node.js, Angular, React, Redux, GraphQL, JUnit, Scrum, Agile, Spring Boot, Maven, Microservices, MVC Hibernate, JSON, Bootstrap, Apache Kafka, AWS S3, KnockoutJS, ES6 JavaScript, FastAPI, SASS, NPM, Webpack, Test-driven development, R
+**Methodologies:**  
+SOA, Microservices, TDD, Agile
+
+**Frameworks/Libraries:**  
+Spring Boot, Hibernate, JUnit, Mockito, Node.js, Express.js, React, Redux, GraphQL, FastAPI, Bootstrap
 
 **Databases:**  
-MySQL, SQL Server, Redis, NoSQL
+MySQL, SQL Server, Redis, NoSQL, Oracle DB, Cassandra, MongoDB
 
-**Cloud & Tools:**  
-AWS, Google Cloud, Azure, Git, Nginx, Docker, Gradle, Jenkins, Kubernetes, Selenium
+**Tools:**  
+Git, GitHub, Docker, AWS, Jenkins, Jira, Confluence, VSCode, IntelliJ IDE, Gradle, Kubernetes, Selenium
+
+**Cloud/Server:**  
+AWS EC2, GCP, Azure, Amazon S3, ElasticSearch, Nginx, WebLogic, Tomcat
 
 ---
 
 ## Professional Experience
 
 ### Tesla Inc
-**Product Engineer**  
+**Software Development Engineer**  
 *Fremont, California*  
 *May 2022 – May 2024*
 
-- Developed and owned various UI components in React, REST APIs, and microservices in Go leading to a 15% increase in user satisfaction.
+- Developed and owned various UI components in React, REST APIs, and microservices in Go, leading to a 15% increase in user satisfaction.
 - Engineered a codebase transition from Java to Go, implementing rigorous unit testing.
 
 ### Truckish Labs
@@ -60,13 +71,40 @@ AWS, Google Cloud, Azure, Git, Nginx, Docker, Gradle, Jenkins, Kubernetes, Selen
 
 - Contributed to a full stack web-based JavaScript licensing tool called Software Licensing and Management Application used by 100+ different companies to purchase enterprise software.
 - Designed and developed a Java-based mission-critical B2B eCommerce backend system for the Config, Price, and Quoting data hub of hp.com & hpe.com.
+- Successfully handled 2 major versions and 30+ minor version releases of the mission-critical large data-driven web app based on new requirements.
+- Mentored and trained 3 developers, improving team velocity and throughput.
+- Developed a DaaS tool in the MERN stack for HPE CPQ, increasing stakeholders’ productivity by more than 70%.
+- Owned and accomplished horizontal scaling of the new parallel environment to Production in Linux server clusters.
 
 ---
 
-## Recognition & Activities
+## Education
 
-- Received “Bias for Action” accolades for technical and leadership contributions at HPE.
-- Conducted a workshop on “How to build Ethereum Dapps using Solidity” at Comet Hack, HackUTD.
+**Master of Science in Computer Science**  
+*The University of Texas at Dallas*  
+*Graduated: December 2022*
+
+**Bachelor of Technology in Computer Science**  
+*India*
+
+---
+
+## Certifications
+
+- **Oracle Certified Java Programmer** (since 2014)
+- **Microsoft Certified Technical Associate - Databases** (since 2014)
+
+---
+
+## Contact / Connect Me
+
+Feel free to reach out to me via email for collaboration, hire me, or just to say hello! I take pleasure in discussing business ideas around technology and believe in going with the flow.
+
+📧 rbakashcs@gmail.com  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/akash-rb) [![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/rbakash)
+
+I live in the Bay Area and would be happy to connect with like-minded folks.
+
 
 ---
 
