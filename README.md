@@ -62,11 +62,6 @@ AWS EC2, GCP, Azure, Amazon S3, ElasticSearch, Nginx, WebLogic, Tomcat
 - Owned and accomplished horizontal scaling of the new parallel environment to Production in Linux server clusters.
 
 
-**Education**
-
-**Master of Science in Computer Science**  
-*The University of Texas at Dallas*  
-
 <!---
 rbakash/rbakash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
