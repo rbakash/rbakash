@@ -23,17 +23,13 @@ AWS EC2, GCP, Azure, Amazon S3, ElasticSearch, Nginx, WebLogic, Tomcat
 
 **Professional Experience**
 
-### Tesla Inc
-**Product Engineer**  
+**Tesla Inc | Product Engineer**  
 
-### Truckish Labs
-**Software Development Engineer**  
+**Truckish Labs | Software Development Engineer**  
 
-### Qbrics Inc
-**Software Development Engineer**  
+**Qbrics Inc | Software Development Engineer**  
 
-### Hewlett Packard Enterprise
-**Software Development Engineer**  
+**Hewlett Packard Enterprise | Software Development Engineer**  
 
 
 <!---
