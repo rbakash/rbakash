@@ -4,9 +4,7 @@
 
 **About Me**
 - 💻 Developer who loves to build products
-- 🌐 Distributed system Enthusiast
-- 🚀 Always eager to experiment new technologies
-
+- 🌐 Distributed system 
 
 **Skills**
 
@@ -23,7 +21,7 @@ AWS EC2, GCP, Azure, Amazon S3, ElasticSearch, Nginx, WebLogic, Tomcat
 
 **Professional Experience**
 
-**Tesla Inc | Software Engineer**  
+**Tesla Inc | Product Engineer**  
 
 **Truckish Labs | Software Development Engineer**  
 
