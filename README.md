@@ -21,7 +21,7 @@ AWS EC2, GCP, Azure, Amazon S3, ElasticSearch, Nginx, WebLogic, Tomcat
 
 **Professional Experience**
 
-**Tesla Inc | Product Engineer**  
+**Tesla Inc | Software Product Engineer**  
 
 **Truckish Labs | Software Development Engineer**  
 
