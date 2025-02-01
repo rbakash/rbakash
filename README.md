@@ -9,10 +9,10 @@
 **Skills**
 
 **Technologies:**  
-Java, JavaScript, Golang, C#, C++, Python
+Java, JavaScript, Golang, Python
 
 **Databases:**  
-MySQL, SQL Server, Redis, NoSQL, Oracle DB, Cassandra, MongoDB
+MySQL, Redis, NoSQL, Cassandra, MongoDB
 
 
 **Cloud/Server:**  
